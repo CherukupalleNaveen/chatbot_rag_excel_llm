@@ -1,0 +1,6 @@
+streamlit
+chromadb
+pandas
+openpyxl
+ollama
+pyyaml
